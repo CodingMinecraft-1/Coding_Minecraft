@@ -1,2 +1,6 @@
 ﻿  Hangman.cpp
+c:\users\ambro\codingminecraftedition1\coding minecraft\chapter 1\project 2\hangman.cpp(89): warning C4018: '<': signed/unsigned mismatch
+c:\users\ambro\codingminecraftedition1\coding minecraft\chapter 1\project 2\hangman.cpp(131): warning C4018: '<': signed/unsigned mismatch
+c:\users\ambro\codingminecraftedition1\coding minecraft\chapter 1\project 2\hangman.cpp(142): warning C4018: '<': signed/unsigned mismatch
+c:\users\ambro\codingminecraftedition1\coding minecraft\chapter 1\project 2\hangman.cpp(174): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   Project 2.vcxproj -> C:\Users\ambro\CodingMinecraftEdition1\Coding Minecraft\Chapter 1\Project 2\Debug\Project 2.exe
