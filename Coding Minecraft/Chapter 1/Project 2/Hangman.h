@@ -1,8 +1,10 @@
 #pragma once
 
+// Class declaration
 class Hangman {
 
 public:
+	// Declare our functions
 	void Begin_Game_Loop();
 
 	void Begin_Game();
@@ -13,6 +15,7 @@ public:
 
 	void reset_available_letters();
 
+	// Declare our variables
 	char hidden_guess[100];
 
 	std::string userIn;
